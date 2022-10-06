@@ -2,7 +2,9 @@
 Library Management System using Python(code) And MySQL(database)
 
 First Thing to be done is to install python and MySQL
+
 Python: https://www.python.org/downloads/
+
 MySQL : https://dev.mysql.com/downloads/installer/
 
 Installation Video
