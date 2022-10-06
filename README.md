@@ -9,6 +9,7 @@ MySQL : https://dev.mysql.com/downloads/installer/
 
 Installation Video
 Python : https://www.youtube.com/watch?v=uDbDIhR76H4
+
 MySQL  : https://youtu.be/IqYfmckxeyE
 
 then using command prompt run the following
