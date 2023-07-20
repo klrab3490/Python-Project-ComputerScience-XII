@@ -1,4 +1,4 @@
-# Python-Project-1-LMS
+# Python-Project-ComputerScience-XII
 Library Management System using Python(code) And MySQL(database)
 
 First Thing to be done is to install python and MySQL
