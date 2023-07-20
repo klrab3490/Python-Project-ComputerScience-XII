@@ -3,14 +3,12 @@ Library Management System using Python(code) And MySQL(database)
 
 First Thing to be done is to install python and MySQL
 
-Python: https://www.python.org/downloads/
-
-MySQL : https://dev.mysql.com/downloads/installer/
+- Python: https://www.python.org/downloads/
+- MySQL : https://dev.mysql.com/downloads/installer/
 
 Installation Video
-Python : https://www.youtube.com/watch?v=uDbDIhR76H4
-
-MySQL  : https://youtu.be/IqYfmckxeyE
+- Python : https://www.youtube.com/watch?v=uDbDIhR76H4
+- MySQL  : https://youtu.be/IqYfmckxeyE
 
 then using command prompt run the following
 1. pip install tk
